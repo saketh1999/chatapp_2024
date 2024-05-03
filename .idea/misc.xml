@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.17760416666666667" />
+        <entry key="app/src/main/res/drawable/btn_rounded_corner.xml" value="0.34010416666666665" />
+        <entry key="app/src/main/res/drawable/chatapp_2024_logo.xml" value="0.28125" />
+        <entry key="app/src/main/res/drawable/chatapp_logo_2024.xml" value="0.28125" />
+        <entry key="app/src/main/res/drawable/chatpp_launcher_logo_background.xml" value="0.28125" />
+        <entry key="app/src/main/res/drawable/circular_bg.xml" value="0.221875" />
+        <entry key="app/src/main/res/drawable/edit_text_rounded_corner.xml" value="0.34010416666666665" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.17760416666666667" />
+        <entry key="app/src/main/res/layout/activity_login_phone_number.xml" value="0.375" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/activity_splash.xml" value="0.3037037037037037" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/chatpp_launcher_logo.xml" value="0.17760416666666667" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/chatpp_launcher_logo_2024.xml" value="0.15462962962962962" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/chatpp_launcher_logo_2024_round.xml" value="0.15462962962962962" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/chatpp_launcher_logo_round.xml" value="0.15462962962962962" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.15462962962962962" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.15462962962962962" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
